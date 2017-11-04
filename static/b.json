@@ -1,1 +1,16 @@
-{"alphabet":"b","count":2,"data":[{"plan":"401","assigment":"BASE DE DATOS Y LENGUAJES (401)","url":"https://horarios.fime.me/dependencia/2316/periodo/3100929/materias/b/maestros/809"},{"plan":"401","assigment":"BIOMECANICA (401)","url":"https://horarios.fime.me/dependencia/2316/periodo/3100929/materias/b/maestros/479"}]}
+{
+    "alphabet": "b",
+    "count": 2,
+    "data": [
+        {
+            "plan": "401",
+            "assigment": "BASE DE DATOS Y LENGUAJES (401)",
+            "url": "https://horarios.fime.me/dependencia/2316/periodo/3100929/materias/b/maestros/809"
+        },
+        {
+            "plan": "401",
+            "assigment": "BIOMECANICA (401)",
+            "url": "https://horarios.fime.me/dependencia/2316/periodo/3100929/materias/b/maestros/479"
+        }
+    ]
+}
